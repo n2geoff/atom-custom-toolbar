@@ -91,7 +91,7 @@
         type: "button"
         icon: "markdown"
         callback: "markdown-preview:toggle"
-        tooltip: "Debug"
+        tooltip: "Markdown"
     }
     {
         type: "spacer"
