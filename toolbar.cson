@@ -20,12 +20,6 @@
     }
     {
         type: "button"
-        icon: "git-commit"
-        callback: "git-control:toggle"
-        tooltip: "Git Control"
-    }
-    {
-        type: "button"
         icon: "git-merge"
         callback: "merge-conflicts:toggle"
         tooltip: "Git Merge"
