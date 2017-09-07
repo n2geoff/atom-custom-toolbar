@@ -62,12 +62,6 @@
     }
     {
         type: "button"
-        icon: "terminal"
-        callback: "terminal-plus:toggle"
-        tooltip: "Terminal"
-    }
-    {
-        type: "button"
         icon: "check"
         callback: "linter:lint"
         tooltip: "Check"
