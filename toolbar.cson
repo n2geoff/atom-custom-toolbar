@@ -21,7 +21,7 @@
     {
         type: "button"
         icon: "git-merge"
-        callback: "merge-conflicts:toggle"
+        callback: "merge-conflicts:detect"
         tooltip: "Git Merge"
     }
     {
